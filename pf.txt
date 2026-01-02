@@ -1,0 +1,104 @@
+Which language is mainly used for system programming?
+a) Python
+b) C
+c) HTML
+d) None
+b
+
+What does CPU stand for?
+a) Central Processing Unit
+b) Control Processing Unit
+c) Central Program Unit
+d) None
+a
+
+Which symbol is used to end a statement in C++?
+a) .
+b) ;
+c) :
+d) ?
+b
+
+Which of the following is a loop?
+a) if
+b) switch
+c) for
+d) None
+c
+
+Which data type is used to store whole numbers?
+a) float
+b) char
+c) int
+d) None
+c
+
+Which operator is used for addition?
+a) +
+b) *
+c) /
+d) \
+a
+
+Which keyword is used to take input in C++?
+a) cout
+b) cin
+c) input
+d) None
+b
+
+Which of the following is a correct variable name?
+a) 2num
+b) num_2
+c) int
+d) None
+b
+
+Which symbol is used for single-line comments in C++?
+a) /*
+b) #
+c) //
+d) None
+c
+
+Which header file is required for input/output in C++?
+a) <stdio.h>
+b) <iostream>
+c) <conio.h>
+d) None
+b
+
+Which of the following is a correct output statement in C++?
+a) cin<< "Hello";
+b) cout>> "Hello";
+c) cout<< "Hello";
+d) None
+c
+
+Which one operator is used for assignment?
+a) =
+b) ==
+c) !=
+d) None
+a
+
+ Which of the following is a logical Operator ?
+a) &&
+b) %
+c) %%
+d) None
+a
+
+Which keyword is used to define a constnt variable in C++?
+a) var
+b) constant
+c) const
+d) None
+c
+
+Which of the following is a high-level Language?
+a) Machine Code
+b) Binary
+c) C++
+d) Assembly
+c
